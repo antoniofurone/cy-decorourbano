@@ -1,0 +1,1294 @@
+08:38:40.191 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Rest Application ... 
+08:41:11.731 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:41:57.366 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:42:47.564 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:50:27.844 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:50:28.889 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+08:51:48.480 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:51:49.505 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+08:51:49.547 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=null 
+08:51:49.548 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=null 
+08:51:49.548 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=null 
+08:51:49.548 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+08:53:49.722 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:53:50.742 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+08:53:50.760 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=null 
+08:53:50.761 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=null 
+08:53:50.761 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=null 
+08:53:50.762 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+08:55:04.180 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:55:05.226 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+08:55:05.244 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+08:55:05.245 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+08:55:05.245 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+08:55:05.245 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+08:58:54.128 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+08:58:55.184 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+08:58:55.201 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+08:58:55.202 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+08:58:55.202 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+08:58:55.203 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+09:00:46.569 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+09:00:47.626 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+09:00:47.643 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+09:00:47.644 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+09:00:47.644 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+09:00:47.645 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+09:03:17.487 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+09:03:18.554 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+09:03:18.572 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+09:03:18.573 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+09:03:18.573 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+09:03:18.573 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+09:03:18.623 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+09:03:18.624 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+09:03:28.633 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+09:03:28.634 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+09:03:38.635 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+09:03:38.635 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+09:03:48.636 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+09:03:48.636 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+09:10:41.352 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+09:10:42.420 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+09:10:42.438 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+09:10:42.439 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+09:10:42.439 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+09:10:42.440 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+09:10:42.484 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+09:10:42.485 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+09:10:52.487 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+09:10:52.488 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:01:06.630 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:01:07.296 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:01:07.315 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:01:07.316 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:01:07.316 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:01:07.316 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:01:07.355 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:01:07.355 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:01:17.356 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:01:17.356 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:01:27.357 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:01:27.358 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:01:37.359 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:01:37.359 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:01:47.360 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:01:47.361 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:12:35.235 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:12:35.805 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:12:35.814 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:12:35.815 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:12:35.815 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:12:35.815 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:12:35.838 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:12:35.839 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:35.840 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:35.841 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:35.841 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:12:45.843 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:12:45.844 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:45.846 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:45.848 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:45.849 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:12:55.851 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:12:55.852 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:55.854 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:55.856 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:12:55.856 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:13:05.858 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:13:05.914 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:05.915 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:05.915 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:05.916 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:13:15.917 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:13:15.918 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:15.919 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:15.921 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:15.921 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:13:25.923 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:13:25.923 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:25.925 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:25.927 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:25.927 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:13:35.929 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:13:35.930 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:35.931 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:35.933 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:35.933 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:13:45.935 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:13:45.935 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:45.937 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:45.938 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:45.939 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:13:55.941 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:13:55.941 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:55.942 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:55.944 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:13:55.944 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:14:05.946 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:14:05.947 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:05.948 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:05.948 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:05.948 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:14:15.950 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:14:15.951 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:15.952 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:15.954 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:15.954 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:14:25.956 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:14:25.956 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:25.958 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:25.959 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:25.960 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:14:35.962 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:14:35.963 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:35.964 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:35.966 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:35.966 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:14:45.968 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:14:45.969 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:45.970 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:45.972 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:45.972 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:14:55.974 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:14:55.975 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:55.976 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:55.978 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:14:55.978 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:15:05.982 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:15:05.985 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:05.986 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:05.988 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:05.988 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:15:15.990 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:15:15.990 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:15.991 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:15.992 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:15.993 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:15:25.995 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:15:25.996 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:25.997 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:25.999 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:25.999 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:15:36.001 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:15:36.002 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:36.003 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:36.005 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:36.005 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:15:46.007 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:15:46.008 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:46.009 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:46.011 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:46.011 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:15:56.013 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:15:56.013 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:56.015 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:56.017 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:15:56.017 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:06.019 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:06.022 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:06.023 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:06.025 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:06.025 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:16.027 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:16.027 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:16.029 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:16.030 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:16.031 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:26.033 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:26.034 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:26.035 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:26.037 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:26.037 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:30.217 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:16:30.826 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:16:30.835 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:16:30.836 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:16:30.836 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:16:30.836 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:16:30.867 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:30.868 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:16:30.897 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:36.039 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:36.040 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:36.041 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:36.043 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:36.043 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:40.899 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:40.900 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:16:40.900 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:46.045 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:46.046 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:46.047 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:46.049 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:46.049 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:50.902 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:50.902 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:16:50.903 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:16:56.051 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:16:56.051 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:56.053 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:56.054 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:16:56.055 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:17:06.056 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:17:06.059 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl="http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:17:06.060 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:17:06.062 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.bss.core.common.CyBssException: java.net.MalformedURLException: no protocol: "http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno"; 
+11:17:06.062 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:17:17.075 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:17:17.655 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:17:17.665 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:17:17.665 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:17:17.666 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:17:17.666 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:17:17.690 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:17:17.690 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:17:17.691 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:17:27.692 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:17:27.693 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:17:27.693 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:17:37.695 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:17:37.696 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:17:37.696 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:17:47.698 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:17:47.699 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:17:47.699 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:17:57.701 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:17:57.702 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:17:57.702 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:18:07.704 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:18:07.745 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:18:07.746 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:18:17.747 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:18:17.748 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:18:17.748 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:18:27.750 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:18:27.751 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:18:27.751 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:18:37.753 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:18:37.754 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:18:37.754 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:18:47.756 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:18:47.757 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:18:47.757 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:21:20.236 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:21:20.793 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:21:20.802 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:21:20.803 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:21:20.803 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:21:20.803 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:21:20.826 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:21:20.827 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:21:21.190 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:21:31.192 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:21:31.193 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:21:31.431 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:25:01.348 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:25:01.904 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:25:01.913 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:25:01.914 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:25:01.914 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:25:01.914 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:25:01.937 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:25:01.937 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:25:02.203 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:25:12.205 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:25:12.206 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:25:12.438 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:29:57.803 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:29:58.356 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:29:58.366 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:29:58.366 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:29:58.366 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:29:58.367 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:29:58.390 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:29:58.390 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:29:58.681 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:30:08.683 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:30:08.721 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:30:08.865 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:34:24.227 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:34:24.789 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:34:24.799 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:34:24.799 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:34:24.799 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:34:24.799 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:34:24.823 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:34:24.823 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:34:25.209 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:34:35.210 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:34:35.211 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:34:35.362 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+11:37:11.311 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+11:37:11.876 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+11:37:11.886 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+11:37:11.886 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+11:37:11.886 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+11:37:11.886 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+11:37:11.910 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+11:37:11.910 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+11:37:12.192 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:21:58.030 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+12:21:58.588 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+12:21:58.597 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+12:21:58.598 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+12:21:58.598 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+12:21:58.598 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+12:21:58.621 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:21:58.621 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:21:58.955 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:22:08.956 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:22:09.016 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:22:09.291 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:22:19.292 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:22:19.292 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:22:19.448 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:22:29.449 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:22:29.449 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:22:29.652 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:22:39.653 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:22:39.653 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:22:39.799 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:22:49.800 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:22:49.801 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:22:49.956 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:22:59.957 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:22:59.958 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:23:00.115 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:23:10.118 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:23:10.119 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:23:10.284 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:23:20.285 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:23:20.286 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:23:20.672 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:23:30.673 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:23:30.674 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:23:30.838 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:23:40.839 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:23:40.839 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:23:41.006 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:23:51.007 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:23:51.007 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:23:51.461 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+12:24:01.462 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+12:24:01.465 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+12:24:01.615 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:05:44.832 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:05:45.379 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:05:45.379 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:05:45.379 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:05:45.379 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:05:45.379 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:05:45.411 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:05:45.411 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:05:45.910 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:05:55.925 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:05:55.925 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:05:56.082 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:06:06.098 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:06:06.129 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:06:06.286 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:06:16.301 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:06:16.301 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:06:16.661 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:06:26.692 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:06:26.692 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:06:26.834 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:06:36.849 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:06:36.849 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:06:37.037 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:06:58.723 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:06:59.269 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:06:59.284 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:06:59.284 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:06:59.284 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:06:59.284 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:06:59.300 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:06:59.300 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:06:59.581 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:07:09.597 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:07:09.644 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:07:09.801 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:07:19.816 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:07:19.816 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:07:19.973 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:09:48.130 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:09:48.691 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:09:48.707 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:09:48.707 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:09:48.707 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:09:48.707 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:09:48.723 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:09:48.723 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:09:49.003 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:09:59.020 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:09:59.020 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:09:59.161 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:10:59.878 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:11:00.439 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:11:00.455 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:11:00.455 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:11:00.455 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:11:00.455 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:11:00.470 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:11:00.470 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:11:00.814 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:11:10.830 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:11:10.830 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:11:11.002 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:12:27.804 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:12:28.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:12:28.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:12:28.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:12:28.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:12:28.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:12:28.397 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:12:28.397 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:12:28.677 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:12:38.694 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:12:38.694 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:12:38.835 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:14:04.418 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:14:04.980 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:14:04.980 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:14:04.980 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:14:04.980 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:14:04.980 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:14:05.011 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:14:05.011 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:14:05.307 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:14:15.324 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:14:15.324 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:14:15.527 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:16:19.470 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:16:20.032 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:16:20.048 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:16:20.048 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:16:20.048 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:16:20.048 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:16:20.063 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:16:20.063 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:16:20.344 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:16:30.360 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:16:30.360 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:16:30.517 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:16:40.548 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:16:40.548 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:16:40.721 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:16:50.736 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:16:50.736 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:16:50.877 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:17:00.892 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:17:00.924 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:17:01.065 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:18:44.744 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:18:45.290 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:18:45.305 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:18:45.305 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:18:45.305 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:18:45.305 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:18:45.336 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:18:45.336 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:18:45.617 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:18:55.633 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:18:55.633 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:18:55.790 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:42:51.831 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:42:52.377 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() >>> 
+14:42:52.393 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:42:52.393 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:42:52.393 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:42:52.393 [main] INFO  o.c.d.main.DecoroUrbanoMain - CyBssRestApp.mySqlDS() <<< 
+14:42:52.408 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:42:52.408 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:42:52.720 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:43:02.737 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:43:02.799 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:43:02.940 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:49:34.806 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+14:49:35.399 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+14:49:35.399 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+14:49:35.399 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+14:49:35.399 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+14:49:35.399 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+14:49:35.414 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+14:49:35.430 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+14:49:35.445 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:49:35.445 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:49:35.773 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+14:49:45.789 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+14:49:45.789 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+14:49:46.009 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:24:23.163 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:24:23.724 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:24:23.724 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:24:23.724 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:24:23.724 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:24:23.724 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:24:23.740 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:24:23.755 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:24:23.771 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:24:23.771 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:24:24.067 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:24:34.083 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:24:34.083 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:24:34.225 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:27:42.761 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:27:43.323 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:27:43.323 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:27:43.323 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:27:43.323 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:27:43.323 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:27:43.338 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:27:43.354 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:27:43.370 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:27:43.370 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:27:43.650 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:28:05.804 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:28:06.350 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:28:06.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:28:06.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:28:06.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:28:06.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:28:06.365 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:28:06.381 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:28:06.397 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:28:06.397 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:28:06.397 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: UserId not configured ! 
+15:28:06.397 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:28:16.411 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:28:16.411 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:28:16.411 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: UserId not configured ! 
+15:28:16.411 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:28:26.427 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:28:26.427 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:28:26.427 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: UserId not configured ! 
+15:28:26.427 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:28:36.443 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:28:36.443 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:28:36.443 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: UserId not configured ! 
+15:28:36.443 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:28:46.459 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:28:46.459 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:28:46.459 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: UserId not configured ! 
+15:28:46.459 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:32:02.038 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:32:02.584 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:32:02.599 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:32:02.599 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:32:02.599 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:32:02.599 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:32:02.615 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:32:02.615 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:32:02.630 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:32:02.630 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:32:02.927 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:35:05.636 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:35:06.213 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:35:06.213 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:35:06.213 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:35:06.213 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:35:06.213 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:35:06.229 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:35:06.229 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:35:06.244 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:35:06.260 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:35:06.603 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:45:31.146 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:45:31.708 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:45:31.723 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:45:31.723 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:45:31.723 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:45:31.723 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:45:31.723 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:45:31.739 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:45:31.754 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:45:31.754 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:45:32.223 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:45:32.223 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:45:32.223 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:45:42.239 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:45:42.239 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:45:42.458 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:45:42.458 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:45:42.458 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:45:52.475 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:45:52.475 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:45:52.648 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:45:52.648 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:45:52.648 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:46:02.665 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:46:02.696 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:46:02.838 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:02.838 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:02.838 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:46:12.854 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:46:12.854 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:46:12.996 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:12.996 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:12.996 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:46:23.012 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:46:23.012 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:46:23.154 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:23.154 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:23.154 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:46:33.170 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:46:33.170 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:46:33.311 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:33.311 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:33.311 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:46:43.328 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:46:43.328 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:46:43.469 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:43.469 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:43.469 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:46:53.485 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:46:53.485 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:46:53.627 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:53.627 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:53.627 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:46:53.815 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:46:54.377 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:46:54.377 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:46:54.377 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:46:54.377 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:46:54.377 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:46:54.392 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:46:54.392 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:46:54.423 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:46:54.423 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:46:54.689 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:54.689 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:46:54.689 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:03.644 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:03.644 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:03.786 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:03.787 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:03.787 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:04.707 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:04.738 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:04.880 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:04.880 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:04.880 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:13.804 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:13.804 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:14.148 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:14.148 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:14.148 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:14.898 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:14.898 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:15.039 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:15.039 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:15.039 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:24.167 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:24.167 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:24.309 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:24.309 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:24.309 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:34.325 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:34.325 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:34.467 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:34.467 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:34.467 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:44.483 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:44.483 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:44.624 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:44.624 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:44.624 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:47:54.641 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:47:54.641 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:47:54.782 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:54.782 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:47:54.782 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:48:04.798 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:48:04.798 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:48:04.955 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:48:04.955 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:48:04.955 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:48:14.972 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:48:14.972 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:48:15.113 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:48:15.113 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38 +0200" 
+15:48:15.113 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:48:22.088 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:48:22.650 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:48:22.650 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:48:22.650 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:48:22.650 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:48:22.650 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:48:22.666 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:48:22.681 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:48:22.697 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:48:22.697 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:48:22.962 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "on, 13 Jul 2015 15:31:3" 
+15:48:22.978 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "on, 13 Jul 2015 15:31:3" 
+15:48:22.978 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:48:32.994 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:48:32.994 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:48:33.135 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "on, 13 Jul 2015 15:31:3" 
+15:48:33.135 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "on, 13 Jul 2015 15:31:3" 
+15:48:33.135 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:48:43.152 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:48:43.152 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:48:43.293 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "on, 13 Jul 2015 15:31:3" 
+15:48:43.293 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "on, 13 Jul 2015 15:31:3" 
+15:48:43.293 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:48:44.745 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:48:45.338 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:48:45.353 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:48:45.353 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:48:45.353 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:48:45.353 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:48:45.369 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:48:45.369 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:48:45.384 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:48:45.384 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:48:45.681 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:48:45.681 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:48:45.681 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:48:53.826 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:48:54.388 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:48:54.403 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:48:54.403 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:48:54.403 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:48:54.403 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:48:54.419 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:48:54.419 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:48:54.435 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:48:54.435 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:48:54.715 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:48:54.715 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:48:54.715 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:49:04.733 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:49:04.764 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:49:04.921 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:49:04.921 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:49:04.921 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:49:14.937 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:49:14.937 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:49:15.079 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:49:15.079 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:3" 
+15:49:15.079 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:49:26.718 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:49:27.280 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:49:27.280 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:49:27.280 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:49:27.280 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:49:27.280 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:49:27.296 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:49:27.296 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:49:27.311 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:49:27.311 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:49:27.608 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:27.608 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:27.608 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:49:37.624 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:49:37.624 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:49:37.765 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:37.765 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:37.765 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:49:47.782 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:49:47.782 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:49:47.923 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:47.923 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:47.923 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:49:57.939 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:49:57.939 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:49:58.081 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoTask - java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:58.081 [pool-1-thread-1] ERROR o.c.d.main.DecoroUrbanoMain - org.cysoft.decorourbano.common.CyDecoroUrbanoException: java.text.ParseException: Unparseable date: "Mon, 13 Jul 2015 15:31:38" 
+15:49:58.081 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:50:33.370 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:50:33.932 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:50:33.948 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:50:33.948 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:50:33.948 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:50:33.948 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:50:33.963 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:50:33.963 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:50:33.979 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:50:33.979 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:50:34.306 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:50:44.323 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:50:44.323 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:50:44.495 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:51:18.942 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:51:19.503 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:51:19.503 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:51:19.503 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:51:19.503 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:51:19.503 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:51:19.519 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:51:19.519 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:51:19.534 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:51:19.550 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:51:19.815 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:51:29.832 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:51:29.832 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:51:29.973 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:51:39.988 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:51:39.988 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:51:40.130 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+15:56:21.356 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+15:56:21.918 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+15:56:21.934 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+15:56:21.934 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+15:56:21.934 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+15:56:21.934 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+15:56:21.949 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+15:56:21.949 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+15:56:21.965 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+15:56:21.965 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+15:56:22.261 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:00:37.965 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+16:00:38.542 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+16:00:38.542 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+16:00:38.542 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+16:00:38.542 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+16:00:38.542 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+16:00:38.557 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+16:00:38.557 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+16:00:38.589 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:00:38.589 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:00:38.885 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:00:48.901 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:00:48.901 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:00:49.058 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:21:55.211 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+16:21:55.788 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+16:21:55.804 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+16:21:55.804 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+16:21:55.804 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+16:21:55.804 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+16:21:55.805 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+16:21:55.805 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+16:21:55.836 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:21:55.836 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:21:56.165 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:30:27.675 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+16:30:28.221 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+16:30:28.236 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+16:30:28.236 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+16:30:28.236 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+16:30:28.236 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+16:30:28.252 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+16:30:28.252 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+16:30:28.268 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:30:28.268 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:30:38.580 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:30:38.580 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:32:54.807 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+16:32:55.369 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+16:32:55.369 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+16:32:55.369 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+16:32:55.369 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+16:32:55.369 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+16:32:55.384 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+16:32:55.384 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+16:32:55.400 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:32:55.400 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:32:55.728 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:33:05.744 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:33:05.806 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:33:06.182 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:35:47.112 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+16:35:47.705 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+16:35:47.721 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+16:35:47.721 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+16:35:47.721 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+16:35:47.721 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+16:35:47.736 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+16:35:47.736 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+16:35:47.752 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:35:47.752 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:35:48.049 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:41:13.498 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+16:41:14.068 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+16:41:14.077 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+16:41:14.077 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+16:41:14.078 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+16:41:14.078 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+16:41:14.091 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+16:41:14.096 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+16:41:14.113 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:41:14.114 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:41:14.133 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:41:24.135 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:41:24.136 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:41:24.153 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:44:28.701 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+16:44:29.293 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+16:44:29.293 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+16:44:29.293 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+16:44:29.293 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+16:44:29.293 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+16:44:29.309 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+16:44:29.309 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+16:44:29.340 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:44:29.340 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:44:29.341 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:44:39.372 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:44:39.372 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:44:39.373 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+16:44:49.404 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+16:44:49.404 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+16:44:49.419 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+17:22:14.652 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+17:22:15.216 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+17:22:15.226 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+17:22:15.226 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+17:22:15.226 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+17:22:15.227 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+17:22:15.247 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+17:22:15.252 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+17:22:15.271 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+17:22:15.271 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+17:22:15.290 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:35:41.994 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+18:35:43.069 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+18:35:43.078 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+18:35:43.095 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+18:35:43.096 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+18:35:43.096 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+18:35:43.096 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+18:35:43.124 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+18:35:43.163 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:35:43.163 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:35:43.200 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:35:43.231 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:35:43.886 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:35:43.886 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:35:43.887 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:35:53.888 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:35:53.889 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:35:53.906 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:35:53.906 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:35:53.908 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:35:53.908 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:35:53.909 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:42:03.874 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+18:42:04.941 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+18:42:04.950 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+18:42:04.967 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+18:42:04.968 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+18:42:04.968 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+18:42:04.969 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+18:42:04.995 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+18:42:05.033 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:42:05.034 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:42:05.071 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:05.080 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:42:05.451 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:05.452 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:42:05.452 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:42:05.452 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:42:05.509 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:42:05.510 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:42:15.512 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:42:15.513 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:42:15.530 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:15.530 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:42:15.532 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:15.532 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:42:15.533 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:42:15.533 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:42:15.535 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:42:15.535 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:42:25.536 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:42:25.537 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:42:25.553 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:25.554 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:42:25.555 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:25.556 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:42:25.556 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:42:25.557 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:42:25.559 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:42:25.560 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:42:35.561 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:42:35.562 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:42:35.578 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:35.579 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:42:35.581 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:35.581 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:42:35.581 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:42:35.582 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:42:35.584 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:42:35.584 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:42:45.585 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:42:45.586 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:42:45.601 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:45.602 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:42:45.603 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:45.604 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:42:45.604 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:42:45.605 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:42:45.607 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:42:45.607 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:42:55.609 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:42:55.610 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:42:55.626 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:55.626 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:42:55.628 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:42:55.628 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:42:55.628 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:42:55.629 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:42:55.632 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:42:55.632 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:43:05.634 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:43:05.697 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:43:05.710 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:43:05.711 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:43:05.712 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:43:05.713 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:43:05.713 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:43:05.713 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:43:05.714 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:43:05.715 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+18:43:15.716 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+18:43:15.717 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+18:43:15.732 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:43:15.732 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+18:43:15.734 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+18:43:15.734 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+18:43:15.734 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+18:43:15.735 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+18:43:15.737 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+18:43:15.737 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:02:56.943 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+19:02:58.006 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+19:02:58.015 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+19:02:58.032 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+19:02:58.032 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+19:02:58.033 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+19:02:58.033 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+19:02:58.059 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+19:02:58.097 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:02:58.097 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:02:58.132 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:02:58.142 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:02:58.502 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:02:58.503 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:02:58.503 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:02:58.503 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:02:58.526 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:02:58.527 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:03:08.528 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:03:08.586 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:03:08.603 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:03:08.604 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:03:08.606 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:03:08.606 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:03:08.606 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:03:08.607 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:03:08.609 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:03:08.609 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:04:26.995 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+19:04:28.071 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+19:04:28.079 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+19:04:28.096 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+19:04:28.097 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+19:04:28.097 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+19:04:28.097 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+19:04:28.124 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+19:04:28.163 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:04:28.164 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:04:28.197 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:04:28.207 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:04:28.561 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:04:28.562 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:04:28.562 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:04:28.562 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:04:28.585 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:04:28.599 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@500dffbf] 
+19:04:28.601 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@4d50c50b] 
+19:04:28.604 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@70b7ca0] 
+19:04:28.606 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@12151da2] 
+19:04:28.608 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@366480d7] 
+19:04:28.610 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@24af9995] 
+19:04:28.612 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@97cb0f1] 
+19:04:28.613 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:04:38.615 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:04:38.616 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:04:38.632 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:04:38.633 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:04:38.635 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:04:38.635 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:04:38.635 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:04:38.636 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:04:38.638 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:04:38.639 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@3b88bc85] 
+19:04:38.643 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@349c5441] 
+19:04:38.646 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@7783a34f] 
+19:04:38.649 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@59af1ee6] 
+19:04:38.651 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@5aec3076] 
+19:04:38.654 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@9ee0de4] 
+19:04:38.657 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@26271bf2] 
+19:04:38.659 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:04:48.660 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:04:48.661 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:04:48.677 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:04:48.678 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:04:48.679 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:04:48.680 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:04:48.680 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:04:48.680 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:04:48.682 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:04:48.683 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@44608238] 
+19:04:48.686 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@2029c7d5] 
+19:04:48.689 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@1ee46f29] 
+19:04:48.692 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@569231a1] 
+19:04:48.694 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@36d85d0d] 
+19:04:48.697 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@46d961db] 
+19:04:48.700 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@79347d75] 
+19:04:48.702 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:06:13.034 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+19:06:14.099 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+19:06:14.108 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+19:06:14.125 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+19:06:14.126 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+19:06:14.126 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+19:06:14.126 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+19:06:14.152 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+19:06:14.189 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:06:14.190 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:06:14.225 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:06:14.234 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:06:14.601 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:06:14.602 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:06:14.602 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:06:14.602 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:06:14.626 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:06:14.636 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@47117da8] 
+19:06:14.639 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@71b87cd4] 
+19:06:14.641 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@322effd] 
+19:06:14.643 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@284c7ff4] 
+19:06:14.645 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@46bf27] 
+19:06:14.648 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@48c1804] 
+19:06:14.650 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@5944a314] 
+19:06:14.651 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:06:24.653 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:06:24.654 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:06:24.670 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:06:24.671 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:06:24.673 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:06:24.673 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:06:24.673 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:06:24.674 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:06:24.676 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:06:24.677 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@e10de4c] 
+19:06:24.681 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@35f9263] 
+19:06:24.683 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@6356d4d5] 
+19:06:24.686 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@7815bc09] 
+19:06:24.689 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@4861c19c] 
+19:06:24.692 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@6bd1f8d3] 
+19:06:24.694 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[org.cysoft.decorourbano.model.Segnalazione@519bc06f] 
+19:06:24.697 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:06:33.177 [main] INFO  o.c.d.main.DecoroUrbanoMain - Start Decoro Urbano ... 
+19:06:34.241 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() >>> 
+19:06:34.250 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() >>> 
+19:06:34.268 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.driver=com.mysql.jdbc.Driver 
+19:06:34.269 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.url=jdbc:mysql://127.0.0.1:3306/cybss 
+19:06:34.269 [main] INFO  o.c.d.main.DecoroUrbanoMain - mysql.user=cybss 
+19:06:34.269 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.mySqlDS() <<< 
+19:06:34.297 [main] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.transactionManager() <<< 
+19:06:34.335 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:06:34.336 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:06:34.372 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:06:34.381 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:06:34.740 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:06:34.740 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:06:34.741 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:06:34.741 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:06:34.764 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:06:34.775 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:31:38 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - Catetere usato per strada!!]] 
+19:06:34.777 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:30:04 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - 2 sacchi di rifiuti nelle aiule vicino alla fermata stp di Via Carovigno!]] 
+19:06:34.779 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Jun 08 12:18:49 CEST 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in Unnamed Road - ECOMOSTRO X COZZE ...MAI ENTRATO IN FUNZIONE ..GRAZIE AL COMUNE DI CAROVIGNO BR ]] 
+19:06:34.782 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Thu Mar 20 16:44:14 CET 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Via della Pineta - Rifiuti di ogni genere.. Oltre alla forte puzza!]] 
+19:06:34.784 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Wed Dec 11 09:31:27 CET 2013, latitude=0.0, longitude=0.0, text=Segnalazione di Dissesto stradale a Carovigno in Viale Vittime del Lavoro - Dopo lavori di scavo per illuminazione pubblica effettuato ripristino senza la copertura di bitume]] 
+19:06:34.786 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Sep 16 23:01:48 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Vandalismo/Incuria a Carovigno in Via Appia - Il far west esiste anche in Italia: 100% di automobilisti senza cinture sotto gli occhi non curanti della polizia municipale, personale interpretazione del codice stradale, gestione clientelare della legalità ecc... Questa è l'Italia che non vogliamo.]] 
+19:06:34.788 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Tue Aug 21 16:20:34 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in SP37 - La spiaggia libera di Punta Penna Grossa versa in serio abbandono, priva di cestini per la raccolta di rifiuti e con un litorale pieno di detriti e plastiche, nonché di materiali portati dal mare. A confine della spiaggia dell'Aeronautica Militare che ha costruzioni in muratura (cemento armato) a pochi metri dalla battigia. Il tutto già all'interno della riserva naturalistica di Torre Guaceto. Scandaloso!]] 
+19:06:34.790 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:06:44.792 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:06:44.793 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:06:44.810 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:06:44.810 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:06:44.812 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:06:44.812 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:06:44.813 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:06:44.813 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:06:44.815 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:06:44.816 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:31:38 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - Catetere usato per strada!!]] 
+19:06:44.820 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:30:04 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - 2 sacchi di rifiuti nelle aiule vicino alla fermata stp di Via Carovigno!]] 
+19:06:44.823 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Jun 08 12:18:49 CEST 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in Unnamed Road - ECOMOSTRO X COZZE ...MAI ENTRATO IN FUNZIONE ..GRAZIE AL COMUNE DI CAROVIGNO BR ]] 
+19:06:44.826 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Thu Mar 20 16:44:14 CET 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Via della Pineta - Rifiuti di ogni genere.. Oltre alla forte puzza!]] 
+19:06:44.829 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Wed Dec 11 09:31:27 CET 2013, latitude=0.0, longitude=0.0, text=Segnalazione di Dissesto stradale a Carovigno in Viale Vittime del Lavoro - Dopo lavori di scavo per illuminazione pubblica effettuato ripristino senza la copertura di bitume]] 
+19:06:44.831 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Sep 16 23:01:48 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Vandalismo/Incuria a Carovigno in Via Appia - Il far west esiste anche in Italia: 100% di automobilisti senza cinture sotto gli occhi non curanti della polizia municipale, personale interpretazione del codice stradale, gestione clientelare della legalità ecc... Questa è l'Italia che non vogliamo.]] 
+19:06:44.834 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Tue Aug 21 16:20:34 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in SP37 - La spiaggia libera di Punta Penna Grossa versa in serio abbandono, priva di cestini per la raccolta di rifiuti e con un litorale pieno di detriti e plastiche, nonché di materiali portati dal mare. A confine della spiaggia dell'Aeronautica Militare che ha costruzioni in muratura (cemento armato) a pochi metri dalla battigia. Il tutto già all'interno della riserva naturalistica di Torre Guaceto. Scandaloso!]] 
+19:06:44.836 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:06:54.837 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:06:54.838 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:06:54.855 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:06:54.855 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:06:54.857 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:06:54.857 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:06:54.857 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:06:54.858 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:06:54.860 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:06:54.861 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:31:38 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - Catetere usato per strada!!]] 
+19:06:54.864 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:30:04 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - 2 sacchi di rifiuti nelle aiule vicino alla fermata stp di Via Carovigno!]] 
+19:06:54.867 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Jun 08 12:18:49 CEST 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in Unnamed Road - ECOMOSTRO X COZZE ...MAI ENTRATO IN FUNZIONE ..GRAZIE AL COMUNE DI CAROVIGNO BR ]] 
+19:06:54.869 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Thu Mar 20 16:44:14 CET 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Via della Pineta - Rifiuti di ogni genere.. Oltre alla forte puzza!]] 
+19:06:54.872 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Wed Dec 11 09:31:27 CET 2013, latitude=0.0, longitude=0.0, text=Segnalazione di Dissesto stradale a Carovigno in Viale Vittime del Lavoro - Dopo lavori di scavo per illuminazione pubblica effettuato ripristino senza la copertura di bitume]] 
+19:06:54.875 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Sep 16 23:01:48 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Vandalismo/Incuria a Carovigno in Via Appia - Il far west esiste anche in Italia: 100% di automobilisti senza cinture sotto gli occhi non curanti della polizia municipale, personale interpretazione del codice stradale, gestione clientelare della legalità ecc... Questa è l'Italia che non vogliamo.]] 
+19:06:54.878 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Tue Aug 21 16:20:34 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in SP37 - La spiaggia libera di Punta Penna Grossa versa in serio abbandono, priva di cestini per la raccolta di rifiuti e con un litorale pieno di detriti e plastiche, nonché di materiali portati dal mare. A confine della spiaggia dell'Aeronautica Militare che ha costruzioni in muratura (cemento armato) a pochi metri dalla battigia. Il tutto già all'interno della riserva naturalistica di Torre Guaceto. Scandaloso!]] 
+19:06:54.880 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:07:04.882 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:07:04.940 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:07:04.956 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:07:04.956 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:07:04.957 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:07:04.958 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:07:04.958 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:07:04.958 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:07:04.960 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:07:04.961 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:31:38 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - Catetere usato per strada!!]] 
+19:07:04.963 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:30:04 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - 2 sacchi di rifiuti nelle aiule vicino alla fermata stp di Via Carovigno!]] 
+19:07:04.965 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Jun 08 12:18:49 CEST 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in Unnamed Road - ECOMOSTRO X COZZE ...MAI ENTRATO IN FUNZIONE ..GRAZIE AL COMUNE DI CAROVIGNO BR ]] 
+19:07:04.967 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Thu Mar 20 16:44:14 CET 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Via della Pineta - Rifiuti di ogni genere.. Oltre alla forte puzza!]] 
+19:07:04.969 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Wed Dec 11 09:31:27 CET 2013, latitude=0.0, longitude=0.0, text=Segnalazione di Dissesto stradale a Carovigno in Viale Vittime del Lavoro - Dopo lavori di scavo per illuminazione pubblica effettuato ripristino senza la copertura di bitume]] 
+19:07:04.971 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Sep 16 23:01:48 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Vandalismo/Incuria a Carovigno in Via Appia - Il far west esiste anche in Italia: 100% di automobilisti senza cinture sotto gli occhi non curanti della polizia municipale, personale interpretazione del codice stradale, gestione clientelare della legalità ecc... Questa è l'Italia che non vogliamo.]] 
+19:07:04.974 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Tue Aug 21 16:20:34 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in SP37 - La spiaggia libera di Punta Penna Grossa versa in serio abbandono, priva di cestini per la raccolta di rifiuti e con un litorale pieno di detriti e plastiche, nonché di materiali portati dal mare. A confine della spiaggia dell'Aeronautica Militare che ha costruzioni in muratura (cemento armato) a pochi metri dalla battigia. Il tutto già all'interno della riserva naturalistica di Torre Guaceto. Scandaloso!]] 
+19:07:04.975 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:07:14.977 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:07:14.978 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:07:14.993 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:07:14.994 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:07:14.995 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:07:14.996 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:07:14.996 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:07:14.997 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:07:14.999 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:07:15.000 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:31:38 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - Catetere usato per strada!!]] 
+19:07:15.003 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:30:04 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - 2 sacchi di rifiuti nelle aiule vicino alla fermata stp di Via Carovigno!]] 
+19:07:15.005 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Jun 08 12:18:49 CEST 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in Unnamed Road - ECOMOSTRO X COZZE ...MAI ENTRATO IN FUNZIONE ..GRAZIE AL COMUNE DI CAROVIGNO BR ]] 
+19:07:15.008 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Thu Mar 20 16:44:14 CET 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Via della Pineta - Rifiuti di ogni genere.. Oltre alla forte puzza!]] 
+19:07:15.010 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Wed Dec 11 09:31:27 CET 2013, latitude=0.0, longitude=0.0, text=Segnalazione di Dissesto stradale a Carovigno in Viale Vittime del Lavoro - Dopo lavori di scavo per illuminazione pubblica effettuato ripristino senza la copertura di bitume]] 
+19:07:15.013 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Sep 16 23:01:48 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Vandalismo/Incuria a Carovigno in Via Appia - Il far west esiste anche in Italia: 100% di automobilisti senza cinture sotto gli occhi non curanti della polizia municipale, personale interpretazione del codice stradale, gestione clientelare della legalità ecc... Questa è l'Italia che non vogliamo.]] 
+19:07:15.015 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Tue Aug 21 16:20:34 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in SP37 - La spiaggia libera di Punta Penna Grossa versa in serio abbandono, priva di cestini per la raccolta di rifiuti e con un litorale pieno di detriti e plastiche, nonché di materiali portati dal mare. A confine della spiaggia dell'Aeronautica Militare che ha costruzioni in muratura (cemento armato) a pochi metri dalla battigia. Il tutto già all'interno della riserva naturalistica di Torre Guaceto. Scandaloso!]] 
+19:07:15.017 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
+19:07:25.018 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() >>> 
+19:07:25.019 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GeoRssUrl=http://www.decorourbano.org/ext/georss_dl.php?comune=carovigno 
+19:07:25.035 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() >>> 
+19:07:25.035 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - select DU_N_TICKET_ID,DU_S_GUID from BSST_DU_GUID 
+19:07:25.037 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.getAllGuid() <<< 
+19:07:25.037 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoTask - GuidMap size=0 
+19:07:25.038 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() >>> 
+19:07:25.038 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - delete from BSST_DU_GUID 
+19:07:25.040 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - DecoroUrbanoMysql.deleteGuid() <<< 
+19:07:25.041 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:31:38 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - Catetere usato per strada!!]] 
+19:07:25.044 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Mon Jul 13 15:30:04 CEST 2015, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Viale Vittime del Lavoro - 2 sacchi di rifiuti nelle aiule vicino alla fermata stp di Via Carovigno!]] 
+19:07:25.047 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Jun 08 12:18:49 CEST 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in Unnamed Road - ECOMOSTRO X COZZE ...MAI ENTRATO IN FUNZIONE ..GRAZIE AL COMUNE DI CAROVIGNO BR ]] 
+19:07:25.050 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Thu Mar 20 16:44:14 CET 2014, latitude=0.0, longitude=0.0, text=Segnalazione di Rifiuti a Carovigno in Via della Pineta - Rifiuti di ogni genere.. Oltre alla forte puzza!]] 
+19:07:25.053 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Wed Dec 11 09:31:27 CET 2013, latitude=0.0, longitude=0.0, text=Segnalazione di Dissesto stradale a Carovigno in Viale Vittime del Lavoro - Dopo lavori di scavo per illuminazione pubblica effettuato ripristino senza la copertura di bitume]] 
+19:07:25.055 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Sun Sep 16 23:01:48 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Vandalismo/Incuria a Carovigno in Via Appia - Il far west esiste anche in Italia: 100% di automobilisti senza cinture sotto gli occhi non curanti della polizia municipale, personale interpretazione del codice stradale, gestione clientelare della legalità ecc... Questa è l'Italia che non vogliamo.]] 
+19:07:25.057 [pool-1-thread-1] INFO  o.c.d.dao.mysql.DecoroUrbanoMysql - insert into BSST_TIC_TICKET(TIC_S_TEXT,TIC_D_CREATION_DATE,USR_N_USER_ID,TCA_N_CATEGORY_ID,TST_N_STATUS_ID) values  (?,?,?,?,?)[Segnalazione [parsedPubDate=Tue Aug 21 16:20:34 CEST 2012, latitude=0.0, longitude=0.0, text=Segnalazione di Zone verdi a Carovigno in SP37 - La spiaggia libera di Punta Penna Grossa versa in serio abbandono, priva di cestini per la raccolta di rifiuti e con un litorale pieno di detriti e plastiche, nonché di materiali portati dal mare. A confine della spiaggia dell'Aeronautica Militare che ha costruzioni in muratura (cemento armato) a pochi metri dalla battigia. Il tutto già all'interno della riserva naturalistica di Torre Guaceto. Scandaloso!]] 
+19:07:25.059 [pool-1-thread-1] INFO  o.c.d.main.DecoroUrbanoMain - DecoroUrbanoMain.execTask() <<< 
