@@ -83,7 +83,7 @@ public class DecoroUrbanoMain {
 	 }
 	
 	
-	@Scheduled(fixedDelay=10000)
+	@Scheduled(fixedDelay=3600000)
 	 public void execTask() {
 	     // something that should execute periodically
 		 logger.info("DecoroUrbanoMain.execTask() >>>");

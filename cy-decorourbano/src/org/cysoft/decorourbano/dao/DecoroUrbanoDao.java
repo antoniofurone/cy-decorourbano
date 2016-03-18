@@ -12,7 +12,7 @@ public interface DecoroUrbanoDao {
 	public void deleteGuid() throws CyDecoroUrbanoException;
 	
 	public void add(Segnalazione segn) throws CyDecoroUrbanoException;
-	public void update(long ticketId,Segnalazione segn) throws CyDecoroUrbanoException;
+	public void update(long ticketId,long locationId,Segnalazione segn) throws CyDecoroUrbanoException;
 	public void delete(long userId) throws CyDecoroUrbanoException;
 	
 }

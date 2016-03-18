@@ -70,11 +70,11 @@ public class DecoroUrbanoTask {
 		try {
 			Date dateStart=CyDecoroUrbanoUtility.tryStringToDate(sDateStart);
 			
-			//URL url = new URL(geoRssURL);
-			//URLConnection urlConnection=url.openConnection();
-			//InputStream in = new BufferedInputStream(urlConnection.getInputStream());
+			URL url = new URL(geoRssURL);
+			URLConnection urlConnection=url.openConnection();
+			InputStream in = new BufferedInputStream(urlConnection.getInputStream());
 			
-			InputStream in = new FileInputStream("C:/Users/ns293854/Downloads/carovigno.rss");
+			//InputStream in = new FileInputStream("C:/Users/ns293854/Downloads/carovigno.rss");
 			
 			
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -105,7 +105,7 @@ public class DecoroUrbanoTask {
 					if (node.getNodeName().equalsIgnoreCase("description"))
 						segn.setDescription(node.getTextContent());	
 					
-					if (node.getNodeName().equalsIgnoreCase("point"))
+					if (node.getNodeName().equalsIgnoreCase("georss:point"))
 						segn.setPoint(node.getTextContent());	
 					
 					if (node.getNodeName().equalsIgnoreCase("link"))
@@ -143,14 +143,11 @@ public class DecoroUrbanoTask {
 				
 				if (!segn.getParsedPubDate().before(dateStart)){
 					
-					String head=segn.getTitle()+" - "+segn.getDescription()+" ";
-					String status="\nCategoria: "+segn.getCategory()+" - Stato: "+segn.getStatus();
-					String link="\nLink: "+segn.getLink()+" ";
-					String foto="";
-					if (segn.getEnclosureUrl()!=null && !segn.equals(""))
-						foto+="\nFoto: "+segn.getEnclosureUrl()+" ";
+					String head=segn.getTitle()+" - "+segn.getDescription();
+					String status=" -- Categoria: "+segn.getCategory()+"; Stato: "+segn.getStatus();
+					String link=" -- Link: "+segn.getLink();
 					
-					String text=head+status+link+foto;
+					String text=head+status+link;
 					if (text.length()>500){
 						text=head+status+link;
 						if (text.length()>500)
@@ -179,14 +176,14 @@ public class DecoroUrbanoTask {
 			
 			for (Segnalazione segn:segns){
 				if (guidMap.containsKey(segn.getGuid())){
-					// update
-				}
+					Guid guid=guidMap.get(segn.getGuid());
+					decoroUrbanoDao.update(guid.getTicketId(),guid.getLocationId(),segn);
+					}
 				else
-				{
-					// add
 					decoroUrbanoDao.add(segn);
-				}
 			}
+			
+			decoroUrbanoDao.delete(Long.parseLong(userId));
 			
 		} catch (IOException | ParserConfigurationException | SAXException | ParseException e) {
 			// TODO Auto-generated catch block
@@ -203,7 +200,7 @@ public class DecoroUrbanoTask {
 		if (status.equalsIgnoreCase(IDecoroUrbanoConst.STATUS_IN_CARICO))
 			ret=2;
 		if (status.equalsIgnoreCase(IDecoroUrbanoConst.STATUS_RISOLTA))
-			ret=2;
+			ret=3;
 		return ret;
 	}
 

@@ -128,8 +128,35 @@ public class DecoroUrbanoMysql implements DecoroUrbanoDao{
 						});
 					
 				long ticketId=getLastInsertId(jdbcTemplate);
-				logger.info("ticketId="+ticketId);	
-					
+				logger.info("ticketId="+ticketId);
+				
+				cmd="insert into BSST_LOC_LOCATION(LOC_S_NAME,LOC_D_CREATION_DATE,LOC_S_TYPE,LOC_D_LAT,LOC_D_LNG,USR_N_USER_ID)";
+				cmd+=" values ";
+				cmd+=" (?,now(),?,?,?,?)";
+				
+				jdbcTemplate.update(cmd, new Object[]{
+						"Ticket #"+ticketId,"Ticket",
+						segn.getLatitude(),segn.getLongitude(),
+						segn.getUserId()
+				});
+			
+				long locationId=getLastInsertId(jdbcTemplate);
+				logger.info("locationId="+locationId);
+				
+				cmd="update BSST_TIC_TICKET set LOC_N_LOCATION_ID=? where TIC_N_TICKET_ID=?";
+				jdbcTemplate.update(cmd, new Object[]{
+						locationId,
+						ticketId
+				});
+				
+				
+				cmd="insert into BSST_DU_GUID(DU_N_TICKET_ID,DU_N_LOCATION_ID,DU_S_GUID) values (?,?,?)";
+				jdbcTemplate.update(cmd, new Object[]{
+						ticketId,
+						locationId,
+						segn.getGuid()
+				});
+				
 				} catch (DataAccessException e) {
 					// TODO Auto-generated catch block
 					logger.error(e.toString());
@@ -143,14 +170,80 @@ public class DecoroUrbanoMysql implements DecoroUrbanoDao{
 	}
 
 	@Override
-	public void update(long ticketId, Segnalazione segn) throws CyDecoroUrbanoException {
+	public void update(final long ticketId,final long locationId, final Segnalazione segn) throws CyDecoroUrbanoException {
 		// TODO Auto-generated method stub
+		TransactionTemplate txTemplate=new TransactionTemplate(tx);
+		txTemplate.execute(new TransactionCallbackWithoutResult(){
+
+			@Override
+			protected void doInTransactionWithoutResult(TransactionStatus txStatus) {
+				// TODO Auto-generated method stub
+				
+				String cmd="update BSST_TIC_TICKET set TIC_S_TEXT=?,TIC_D_CREATION_DATE=?,USR_N_USER_ID=?,TCA_N_CATEGORY_ID=?,TST_N_STATUS_ID=? ";
+				cmd+="where TIC_N_TICKET_ID=?";
+				
+				JdbcTemplate jdbcTemplate = new JdbcTemplate(ds);
+				logger.info(cmd+"["+ticketId+","+locationId+","+segn+"]");
+			
+				try {
+					jdbcTemplate.update(cmd, new Object[]{
+							segn.getText(), CyDecoroUrbanoUtility.dateToString(segn.getParsedPubDate(), 
+							CyDecoroUrbanoUtility.DATE_yyyy_MM_dd_HH_mm_ss),
+							segn.getUserId(),segn.getCategoryId(),segn.getStatusId(),ticketId
+						});
+					
+					
+					cmd="update BSST_LOC_LOCATION set LOC_D_LAT=?,LOC_D_LNG=? where LOC_N_LOCATION_ID=?";
+					jdbcTemplate.update(cmd, new Object[]{
+							segn.getLatitude(),segn.getLongitude(),locationId
+						});
+					
+					cmd="insert into BSST_DU_GUID(DU_N_TICKET_ID,DU_N_LOCATION_ID,DU_S_GUID) values (?,?,?)";
+					jdbcTemplate.update(cmd, new Object[]{
+							ticketId,
+							locationId,
+							segn.getGuid()
+					});
+					
+				} catch (DataAccessException e) {
+					// TODO Auto-generated catch block
+					logger.error(e.toString());
+					throw new RuntimeException(e);
+				}
+			
+			}
+
+		});
 		
 	}
 
 	@Override
-	public void delete(long userId) throws CyDecoroUrbanoException {
+	public void delete(final long userId) throws CyDecoroUrbanoException {
 		// TODO Auto-generated method stub
-		
+		TransactionTemplate txTemplate=new TransactionTemplate(tx);
+		txTemplate.execute(new TransactionCallbackWithoutResult(){
+
+			@Override
+			protected void doInTransactionWithoutResult(TransactionStatus txStatus) {
+				// TODO Auto-generated method stub
+				String cmd="delete from BSST_TIC_TICKET where USR_N_USER_ID=? and TIC_N_TICKET_ID not in (select DU_N_TICKET_ID from BSST_DU_GUID)";
+				
+				JdbcTemplate jdbcTemplate = new JdbcTemplate(ds);
+				logger.info(cmd+"["+userId+"]");
+				jdbcTemplate.update(cmd, new Object[]{
+					userId
+				});
+			
+				cmd="delete from BSST_LOC_LOCATION where USR_N_USER_ID=? and LOC_S_TYPE=? and LOC_N_LOCATION_ID not in (select DU_N_LOCATION_ID from BSST_DU_GUID)";
+				
+				logger.info(cmd+"["+userId+"]");
+				jdbcTemplate.update(cmd, new Object[]{
+					userId,"Ticket"
+				});
+			
+			}
+
+		});
+
 	}
 }
