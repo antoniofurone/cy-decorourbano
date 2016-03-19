@@ -64,7 +64,9 @@ public class DecoroUrbanoMysql implements DecoroUrbanoDao{
 		JdbcTemplate jdbcTemplate = new JdbcTemplate(ds);
 		logger.info(query);
 		
-		List<Guid> ret = jdbcTemplate.query(
+		List<Guid> ret =null;
+		try {
+		ret=jdbcTemplate.query(
                 query, 
                 new RowMapper<Guid>() {
                     @Override
@@ -76,6 +78,11 @@ public class DecoroUrbanoMysql implements DecoroUrbanoDao{
                         return guid;
 		            }
                 });
+		} catch (DataAccessException e) {
+			// TODO Auto-generated catch block
+			logger.error(e.toString());
+			throw new CyDecoroUrbanoException(e);
+		}
 		
 		logger.info("DecoroUrbanoMysql.getAllGuid() <<<");
 		

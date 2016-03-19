@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
 
-	<property name="USER_HOME" value="c:/temp" />
+	<property name="USER_HOME" value="/home/antonio" />
 	
    
     <appender name="consoleAppender" class="ch.qos.logback.core.ConsoleAppender">
