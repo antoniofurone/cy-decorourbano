@@ -3,7 +3,9 @@ package org.cysoft.decorourbano.main;
 import org.cysoft.decorourbano.common.CyDecoroUrbanoDataSource;
 import org.cysoft.decorourbano.common.CyDecoroUrbanoException;
 import org.cysoft.decorourbano.dao.DecoroUrbanoDao;
+import org.cysoft.decorourbano.dao.PugliaEventiDao;
 import org.cysoft.decorourbano.dao.mysql.DecoroUrbanoMysql;
+import org.cysoft.decorourbano.dao.mysql.PugliaEventiMysql;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -32,6 +34,9 @@ public class DecoroUrbanoMain {
 	@Autowired
 	DecoroUrbanoTask decoroUrbanoTask;
 	
+	@Autowired
+	PugliaEventiTask pugliaEventiTask;
+	
 	@Bean
 	@Description("DecoroUrbano Dao")
 	public DecoroUrbanoDao decoroUrbanoDao(){
@@ -40,10 +45,25 @@ public class DecoroUrbanoMain {
 	}
 	
 	@Bean
+	@Description("PugliaEventi Dao")
+	public PugliaEventiDao pugliaEventiDao(){
+		PugliaEventiDao pugliaEventiDao=new PugliaEventiMysql();
+		return pugliaEventiDao;
+	}
+	
+	
+	@Bean
 	@Description("Decoro Urbano Task")
 	public DecoroUrbanoTask decoroUrbanoTask(){
 		DecoroUrbanoTask decoroUrbanoTask=new DecoroUrbanoTask();
 		return decoroUrbanoTask;
+	 }
+	
+	@Bean
+	@Description("Puglia Eventi Task")
+	public PugliaEventiTask pugliaEventiTask(){
+		PugliaEventiTask pugliaEventiTask=new PugliaEventiTask();
+		return pugliaEventiTask;
 	 }
 	
 	
@@ -89,6 +109,7 @@ public class DecoroUrbanoMain {
 		 logger.info("DecoroUrbanoMain.execTask() >>>");
 		 try {
 			decoroUrbanoTask.exec();
+			pugliaEventiTask.exec();
 		} catch (CyDecoroUrbanoException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

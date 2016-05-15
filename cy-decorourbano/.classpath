@@ -18,5 +18,11 @@
 	<classpathentry kind="lib" path="lib/commons-pool-1.6.jar"/>
 	<classpathentry kind="lib" path="lib/spring-jdbc-4.0.7.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-tx-4.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-win-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
