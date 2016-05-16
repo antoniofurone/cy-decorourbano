@@ -155,7 +155,7 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 					if (evento.getDataFine()==null || evento.getDataFine().equals("") || evento.getDataInizio().equals(evento.getDataFine()))
 							bundle+=", dal "+evento.getDataInizio()+" al "+evento.getDataFine()+";\n";
 					else
-							bundle+=", il "+evento.getDataInizio()+"\n";
+							bundle+=", il "+evento.getDataInizio()+";\n";
 					
 					if (evento.getTelefono()!=null && !evento.getTelefono().equals(""))
 						bundle+="telefono: "+evento.getTelefono()+";\n";

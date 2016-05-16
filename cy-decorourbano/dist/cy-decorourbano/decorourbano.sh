@@ -5,6 +5,8 @@ CLASSPATH=$CLASSPATH:./lib/mysql-connector-java-5.1.34-bin.jar:./lib/spring-aop-
 CLASSPATH=$CLASSPATH:./lib/spring-boot-autoconfigure-1.1.8.RELEASE.jar:./lib/logback-classic-1.1.2.jar:./lib/logback-core-1.1.2.jar:./lib/slf4j-api-1.7.7.jar
 CLASSPATH=$CLASSPATH:./lib/spring-context-4.0.7.RELEASE.jar:./lib/spring-core-4.0.7.RELEASE.jar:./lib/spring-expression-4.0.7.RELEASE.jar:./lib/spring-jdbc-4.0.7.RELEASE.jar
 CLASSPATH=$CLASSPATH:./lib/spring-tx-4.0.7.RELEASE.jar
+CLASSPATH=$CLASSPATH:./lib/httpclient-4.4.jar:./lib/httpclient-cache-4.4.jar:./lib/httpclient-win-4.4.jar:./lib/httpcore-4.4.jar
+CLASSPATH=$CLASSPATH:./lib/httpmime-4.4.jar:./lib/gson-2.2.4.jar
 
 APPID=UrbanBot
 CORE_URL=http://localhost:8080/cy-bss-core
