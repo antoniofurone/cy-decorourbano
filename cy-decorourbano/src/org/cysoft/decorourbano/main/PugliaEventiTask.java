@@ -76,12 +76,16 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 			
 			
 			List<Evento> eventi=new ArrayList<Evento>();
+			Map <String,LatLong> locMap=new LinkedHashMap<String,LatLong>();
 			
 			NodeList itemElements = doc.getElementsByTagName("Table1");
 			for (int i = 0; i < itemElements.getLength(); i++) {
 				Node itemElement = itemElements.item(i);
 				NodeList childNodes=itemElement.getChildNodes();
 				Evento evento=new Evento();
+				
+				boolean locationFound=false;
+				
 				for (int j = 0; j < childNodes.getLength(); j++) {
 					Node node = childNodes.item(j);
 					
@@ -89,47 +93,57 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 						evento.setNome(CyDecoroUrbanoUtility.unescapeHTML(node.getTextContent(),0).trim());
 					}
 					
-					if (node.getNodeName().equalsIgnoreCase("abstract")){
-						evento.setDescription(CyDecoroUrbanoUtility.unescapeHTML(node.getTextContent(),0).trim());
+					if (node.getNodeName().equalsIgnoreCase("descrizione")){
+						String description=node.getTextContent().trim();
+						if (description.length()>500)
+							description=description.substring(0, 500) +"[...]";
+						evento.setDescription(CyDecoroUrbanoUtility.unescapeHTML(description,0));
+					}
+					
+					if (node.getNodeName().equalsIgnoreCase("tipologia")){
+						evento.setTipologia(CyDecoroUrbanoUtility.unescapeHTML(node.getTextContent(),0).trim());
 					}
 
+					if (node.getNodeName().equalsIgnoreCase("tipoticket")){
+						evento.setTicket(CyDecoroUrbanoUtility.unescapeHTML(node.getTextContent(),0).trim());
+					}
+					
+					
 					if (node.getNodeName().equalsIgnoreCase("comune")){
 						evento.setComune(CyDecoroUrbanoUtility.unescapeHTML(node.getTextContent(),0).trim());
+						logger.info("find location for <"+evento.getComune()+">");
 						
-						String response=null;
-						try {
-							response=CyDecoroUrbanoUtility.httpGet("http://maps.googleapis.com/maps/api/geocode/json?address="
-									+URLEncoder.encode(evento.getComune(), "UTF-8"), 
-									null);
-						} catch (CyDecoroUrbanoException | UnsupportedEncodingException e) {
-							// TODO Auto-generated catch block
-							logger.error(e.toString());
-							logger.error("response="+response);
-							throw new CyDecoroUrbanoException(e);
-						}
+						LatLong latLong=null;
 						
-						GeoLocation geoLocation =null; 
-						try{
-							geoLocation=	new Gson().fromJson(response, GeoLocation.class);
-						}
-						catch(Exception e){
-							logger.error(e.toString());
-							logger.error("response="+response);
-							throw new CyDecoroUrbanoException(e);
-						}
-						
-						if (geoLocation!=null && geoLocation.getStatus()!=null 
-							&& geoLocation.getStatus().equals("OK") && geoLocation.getResults()!=null 
-							&& !geoLocation.getResults().isEmpty()
-							)
-							if (geoLocation.getResults().get(0).getGeometry()!=null
-								&& geoLocation.getResults().get(0).getGeometry().getLocation()!=null){
-									evento.setLatitude(geoLocation.getResults().get(0).
-											getGeometry().getLocation().getLat());
-									evento.setLongitude(geoLocation.getResults().get(0).
-											getGeometry().getLocation().getLng());
+						if (locMap.containsKey(evento.getComune()))
+							latLong=locMap.get(evento.getComune());
+						else
+							{
+								logger.info("isn't in map");
+								latLong=getLocation(evento.getComune());
+								if (latLong==null){
 									
+									try {
+										logger.info("Retry after 2 second....");
+										Thread.sleep(2000);
+										latLong=getLocation(evento.getComune());
+									} catch (InterruptedException e) {
+										// TODO Auto-generated catch block
+										e.printStackTrace();
+										logger.error(e.getMessage());
+										throw new CyDecoroUrbanoException(e); 
+									}
 								}
+							}
+						
+						logger.info("location="+latLong);
+						if (latLong!=null){
+							evento.setLatitude(latLong.getLatitude());
+							evento.setLongitude(latLong.getLongitude());
+							locationFound=true;
+							
+							locMap.put(evento.getComune(), latLong);
+						}
 						
 					} // end comune
 					
@@ -157,6 +171,10 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 					else
 							bundle+=", il "+evento.getDataInizio()+";\n";
 					
+					if (evento.getTipologia()!=null && !evento.getTipologia().equals(""))
+						bundle+="tipologia: "+evento.getTipologia()+";\n";
+					if (evento.getTicket()!=null && !evento.getTicket().equals(""))
+						bundle+="ticket: "+evento.getTicket()+";\n";
 					if (evento.getTelefono()!=null && !evento.getTelefono().equals(""))
 						bundle+="telefono: "+evento.getTelefono()+";\n";
 					if (evento.getEmail()!=null && !evento.getEmail().equals(""))
@@ -170,7 +188,11 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 					
 					
 				}
-				eventi.add(evento);
+				
+				if (locationFound)
+					eventi.add(evento);
+				else
+					logger.warn(evento.getNome()+" jumped");
 			}
 			
 			in.close();
@@ -210,7 +232,73 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 		}
 		
 	}
+	
+	private LatLong getLocation(String address) 
+		throws CyDecoroUrbanoException
+	{
+		LatLong latLong=null;
+		
+		String response=null;
+		try {
+			response=CyDecoroUrbanoUtility.httpGet("http://maps.googleapis.com/maps/api/geocode/json?address="
+					+URLEncoder.encode(address, "UTF-8"), 
+					null);
+		} catch (CyDecoroUrbanoException | UnsupportedEncodingException e) {
+			// TODO Auto-generated catch block
+			logger.error(e.toString());
+			logger.error("response="+response);
+			throw new CyDecoroUrbanoException(e);
+		}
+		
+		GeoLocation geoLocation =null; 
+		try{
+			geoLocation=	new Gson().fromJson(response, GeoLocation.class);
+		}
+		catch(Exception e){
+			logger.error(e.toString());
+			logger.error("response="+response);
+			throw new CyDecoroUrbanoException(e);
+		}
+		
+		if (geoLocation!=null && geoLocation.getStatus()!=null 
+			&& geoLocation.getStatus().equals("OK") && geoLocation.getResults()!=null 
+			&& !geoLocation.getResults().isEmpty()
+			)
+			if (geoLocation.getResults().get(0).getGeometry()!=null
+				&& geoLocation.getResults().get(0).getGeometry().getLocation()!=null){
+					latLong=new LatLong(geoLocation.getResults().get(0).getGeometry().getLocation().getLat(),
+								geoLocation.getResults().get(0).getGeometry().getLocation().getLng()
+							);
+				}
+		
+		return latLong;
+	}
+	
 
+	private class LatLong{
+		
+		public LatLong(double latitude,double longitude){
+			this.latitude=latitude;
+			this.longitude=longitude;
+		}
+		
+		private double latitude;
+		private double longitude;
+		public double getLatitude() {
+			return latitude;
+		}
+		
+		public double getLongitude() {
+			return longitude;
+		}
+		
+		@Override
+		public String toString() {
+			return "LatLong [latitude=" + latitude + ", longitude=" + longitude + "]";
+		}
+		
+	}
+	
 	
 
 }

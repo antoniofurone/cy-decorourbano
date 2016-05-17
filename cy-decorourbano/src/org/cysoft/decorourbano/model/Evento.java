@@ -104,13 +104,29 @@ public class Evento {
 		this.userId = userId;
 	}
 	
+	private String tipologia;
+	public String getTipologia() {
+		return tipologia;
+	}
+	public void setTipologia(String tipologia) {
+		this.tipologia = tipologia;
+	}
+	
+	private String ticket;
+	public String getTicket() {
+		return ticket;
+	}
+	public void setTicket(String ticket) {
+		this.ticket = ticket;
+	}
+	
 	@Override
 	public String toString() {
 		return "Evento [nome=" + nome + ", description=" + description + ", comune=" + comune + ", latitude=" + latitude
 				+ ", longitude=" + longitude + ", telefono=" + telefono + ", web=" + web + ", email=" + email
-				+ ", dataInizio=" + dataInizio + ", dataFine=" + dataFine + "]";
+				+ ", dataInizio=" + dataInizio + ", dataFine=" + dataFine + ", userId=" + userId + ", tipologia="
+				+ tipologia + ", ticket=" + ticket + "]";
 	}
-	
 	
 
 }

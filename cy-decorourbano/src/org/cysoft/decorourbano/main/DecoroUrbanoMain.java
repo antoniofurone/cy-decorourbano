@@ -121,10 +121,6 @@ public class DecoroUrbanoMain {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.setProperty("http.proxyHost", "10.29.176.1");
-		System.setProperty("http.proxyPort", "8080");
-		
 		logger.info("Start Decoro Urbano ...");
     	SpringApplication.run(DecoroUrbanoMain.class, args);
     
