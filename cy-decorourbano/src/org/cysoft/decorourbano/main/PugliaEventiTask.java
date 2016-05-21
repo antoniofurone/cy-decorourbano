@@ -7,7 +7,10 @@ import java.io.UnsupportedEncodingException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.net.URLEncoder;
+import java.text.ParseException;
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -61,6 +64,11 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 		}
 		
 		try {
+			
+			Calendar calendar=Calendar.getInstance();
+			Date now10=new Date(calendar.getTime().getTime()-1000*60*60*24*10);
+			logger.info("Date rif="+now10.toString());
+
 			
 			URL url = new URL(pugliaEventiXmlUrl);
 			URLConnection urlConnection=url.openConnection();
@@ -186,13 +194,32 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 					evento.setBundleDescription(bundle);
 					evento.setUserId(Long.parseLong(userId));
 					
-					
 				}
 				
-				if (locationFound)
-					eventi.add(evento);
+				if (locationFound){
+					// check date
+					String sDataEnd=null;
+					if (evento.getDataFine()==null || evento.getDataFine().equals(""))
+						sDataEnd=evento.getDataInizio();
+					else
+						sDataEnd=evento.getDataInizio();
+					sDataEnd=changeMonth(sDataEnd);
+					
+					Date dataEnd=null;
+					try {
+						dataEnd=CyDecoroUrbanoUtility.tryStringToDateDDMMYY(changeMonth(sDataEnd));
+					} catch (ParseException e) {
+						// TODO Auto-generated catch block
+						logger.error(e.toString());
+					}
+					if (dataEnd!=null && !dataEnd.before(now10))
+						eventi.add(evento);
+					else
+						logger.warn(evento.getNome()+" jumped for date "+sDataEnd+":"+
+								CyDecoroUrbanoUtility.dateToString(dataEnd, "dd/MM/yyyy"));
+					}
 				else
-					logger.warn(evento.getNome()+" jumped");
+					logger.warn(evento.getNome()+" jumped for location");
 			}
 			
 			in.close();
@@ -232,6 +259,23 @@ private static final Logger logger = LoggerFactory.getLogger(DecoroUrbanoTask.cl
 		}
 		
 	}
+	
+	private String changeMonth(String date){
+		return date
+			.replaceFirst("gen", "01").replaceFirst("GEN", "01").replaceFirst("Gen", "01")
+			.replaceFirst("feb", "02").replaceFirst("FEB", "02").replaceFirst("Feb", "02")
+			.replaceFirst("mar", "03").replaceFirst("MAR", "03").replaceFirst("Mar", "03")
+			.replaceFirst("apr", "04").replaceFirst("APR", "04").replaceFirst("Apr", "04")
+			.replaceFirst("mag", "05").replaceFirst("MAG", "05").replaceFirst("Mag", "05")
+			.replaceFirst("giu", "06").replaceFirst("GIU", "06").replaceFirst("Giu", "06")
+			.replaceFirst("lug", "07").replaceFirst("LUG", "07").replaceFirst("Lug", "07")
+			.replaceFirst("ago", "08").replaceFirst("AGO", "08").replaceFirst("Ago", "08")
+			.replaceFirst("set", "09").replaceFirst("SET", "09").replaceFirst("Set", "09")
+			.replaceFirst("ott", "10").replaceFirst("OTT", "10").replaceFirst("Ott", "10")
+			.replaceFirst("nov", "11").replaceFirst("NOV", "11").replaceFirst("Nov", "11")
+			.replaceFirst("dic", "12").replaceFirst("DIC", "12").replaceFirst("Dic", "12");
+	}
+	
 	
 	private LatLong getLocation(String address) 
 		throws CyDecoroUrbanoException

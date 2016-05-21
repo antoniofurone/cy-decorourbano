@@ -60,6 +60,7 @@ public class CyDecoroUrbanoUtility {
 	   public static final String DATE_ddsMMsyyyy="dd/MM/yyyy";
 	   public static final String DATE_yyyy_MM_dd="yyyy-MM-dd";
 	   public static final String DATE_yyyy_MM_dd_HH_mm_ss="yyyy-MM-dd HH:mm:ss";
+	   public static final String DATE_dd_MM_yy="dd-MM-yy";
 	   
 	   public static Date stringToDate(String date,String fmt) throws java.text.ParseException{
 		   DateFormat datefmt = new SimpleDateFormat(fmt);
@@ -83,11 +84,22 @@ public class CyDecoroUrbanoUtility {
 			} catch (java.text.ParseException e1) {
 				// TODO Auto-generated catch block
 				throw e1;
-			}
+				}
 		   }
 		   return dt;
 	   }
 	   
+	   public static Date tryStringToDateDDMMYY(String date) 
+			   throws java.text.ParseException{
+		   Date dt=null;
+		   try {
+				dt=stringToDate(date,DATE_dd_MM_yy);
+			} catch (java.text.ParseException e1) {
+				// TODO Auto-generated catch block
+				throw e1;
+		   }
+		   return dt;
+	   }
 	   
 	   public static String dateChangeFormat(String sDate,String fmtOut) throws java.text.ParseException{
 		   return dateToString(tryStringToDate(sDate),fmtOut);
